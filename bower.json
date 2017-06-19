@@ -19,6 +19,6 @@
   ],
   "dependencies": {
     "angular": "^1.6.4",
-    "angular-ui-router": "0.2.8-bowratic-tedium"
+    "angular-ui-router": "0.3.2"
   }
 }
